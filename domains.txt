@@ -92,3 +92,5 @@ sentry.io
 turn.livekit.cloud
 openai.com
 platform.openai.com.cdn.cloudflare.net
+duolingo.cn
+duolingo.com
