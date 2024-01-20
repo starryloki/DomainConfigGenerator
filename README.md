@@ -15,3 +15,4 @@ The list includes:
 + Hami Video
 + CatchPlay+
 + Bahamut Anime
++ Duolingo
