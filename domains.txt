@@ -93,3 +93,6 @@ openai.com
 platform.openai.com.cdn.cloudflare.net
 duolingo.cn
 duolingo.com
+anthropic.com
+claude.ai
+cdn.usefathom.com
