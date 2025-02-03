@@ -83,4 +83,4 @@ bybit.biz
 bybdc6.com
 bybit-global.com
 bybit.cloud
-+.bybitglobal.com
+bybitglobal.com
